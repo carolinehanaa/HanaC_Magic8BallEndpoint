@@ -1,7 +1,7 @@
 /*Caroline Hana
 10-27-2022
 Magic8Ball - the magic 8 ball will answer ur questions
-Peer Review: Christopher Prado 27OCT22 : Code runs adaquetly and effectively & is properly organized! Good work!
+Peer Review : Christopher Prado 27OCT22 : Code runs adaquetly and effectively & is properly organized! Good work!
 */
 
 using System;
